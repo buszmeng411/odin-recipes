@@ -1,0 +1,19 @@
+.title {
+    color: black;
+    background-color: midnightblue;
+    font-size: 44px;
+    font-weight: 700;
+    text-align: center;
+    font-family: "Lucida Sans", sans-serif;
+}
+.break{
+    background-color: midnightblue;
+    color: midnightblue;
+    font-size: 40px;
+}
+.list{
+    color: black;
+    background-color: gray;
+    font-size: 24px;
+    font-family: "Lucida Handwriting", sans-serif;
+}
