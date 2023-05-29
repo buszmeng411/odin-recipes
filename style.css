@@ -8,6 +8,7 @@
     margin: 16px;
     width: auto;
     align-items: auto;
+    padding: 8px;
 
 }
 .break{
@@ -34,4 +35,6 @@
     width: 500px;
     padding-bottom: 16px;
     display: block;
+    padding-top: 1px;
+    margin-top: 8px;
 }
