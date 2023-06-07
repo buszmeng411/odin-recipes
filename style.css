@@ -17,6 +17,7 @@
     font-size: 40px;
     margin: 10px 24px;
     width: auto;
+    border-radius:10px;
 }
 .list{
     color: black;
